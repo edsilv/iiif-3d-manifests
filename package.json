@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "biiif": "^0.1.12"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "biiif": "^0.1.12"
+    "biiif-cli": "0.0.14"
   },
   "scripts": {
-    "build": "biiif collection -u https://edsilv.github.io/iiif-3d-manifests/collection"
+    "build": "./node_modules/.bin/biiif collection -u https://edsilv.github.io/iiif-3d-manifests/collection"
   },
   "repository": {
     "type": "git",

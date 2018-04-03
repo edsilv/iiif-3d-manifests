@@ -1,0 +1,20 @@
+{
+  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "gltf"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "collection"
+    ]
+  }
+}

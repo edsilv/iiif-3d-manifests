@@ -1,0 +1,26 @@
+{
+  "name": "iiif-3d-manifests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "biiif": "^0.1.12"
+  },
+  "devDependencies": {
+    "biiif": "^0.1.12"
+  },
+  "scripts": {
+    "build": "biiif collection -u https://edsilv.github.io/iiif-3d-manifests/collection"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsilv/iiif-3d-manifests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsilv/iiif-3d-manifests/issues"
+  },
+  "homepage": "https://github.com/edsilv/iiif-3d-manifests#readme"
+}

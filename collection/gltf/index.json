@@ -1,0 +1,81 @@
+{
+  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "type": "Sequence",
+      "items": [
+        {
+          "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json/canvas/0",
+          "type": "Canvas",
+          "items": [
+            {
+              "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json/canvas/0/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json/canvas/0/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/_monster/monster.gltf",
+                    "type": "PhysicalObject",
+                    "format": "model/gltf+json",
+                    "label": {
+                      "@none": [
+                        "_monster"
+                      ]
+                    }
+                  },
+                  "target": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json/canvas/0"
+                },
+                {
+                  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json/canvas/0/annotation/1",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/_monster/monster.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": {
+                      "@none": [
+                        "_monster"
+                      ]
+                    }
+                  },
+                  "target": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json/canvas/0"
+                },
+                {
+                  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json/canvas/0/annotation/2",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/_monster/VC.gltf",
+                    "type": "PhysicalObject",
+                    "format": "model/gltf+json",
+                    "label": {
+                      "@none": [
+                        "_monster"
+                      ]
+                    }
+                  },
+                  "target": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json/canvas/0"
+                }
+              ]
+            }
+          ],
+          "label": {
+            "@none": [
+              "_monster"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "gltf"
+    ]
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/index.json",
+  "id": "https://iiif-3d-manifests.netlify.com/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/index.json",
+      "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/index.json",
       "type": "Manifest",
       "label": {
         "@none": [

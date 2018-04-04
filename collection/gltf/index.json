@@ -15,44 +15,12 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/_monster/monster.gltf",
+                "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/_woody/woody.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
                   "@none": [
-                    "_monster"
-                  ]
-                }
-              },
-              "target": "https://iiif-3d-manifests.netlify.com/collection/gltf/index.json/canvas/0"
-            },
-            {
-              "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/index.json/canvas/0/annotation/1",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/_monster/monster.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "label": {
-                  "@none": [
-                    "_monster"
-                  ]
-                }
-              },
-              "target": "https://iiif-3d-manifests.netlify.com/collection/gltf/index.json/canvas/0"
-            },
-            {
-              "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/index.json/canvas/0/annotation/2",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/_monster/VC.gltf",
-                "type": "PhysicalObject",
-                "format": "model/gltf+json",
-                "label": {
-                  "@none": [
-                    "_monster"
+                    "_woody"
                   ]
                 }
               },
@@ -63,7 +31,7 @@
       ],
       "label": {
         "@none": [
-          "_monster"
+          "_woody"
         ]
       }
     }

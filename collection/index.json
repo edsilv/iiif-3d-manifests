@@ -4,10 +4,28 @@
   "items": [
     {
       "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/index.json",
-      "type": "Manifest",
+      "type": "Collection",
       "label": {
         "@none": [
           "gltf"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif-3d-manifests.netlify.com/collection/obj/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "obj"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif-3d-manifests.netlify.com/collection/ply/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "ply"
         ]
       }
     }

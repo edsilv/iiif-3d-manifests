@@ -1,0 +1,26 @@
+{
+  "id": "https://iiif-3d-manifests.netlify.com/collection/obj/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://iiif-3d-manifests.netlify.com/collection/obj/woody/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Fisherman"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif-3d-manifests.netlify.com/collection/obj/woody/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "obj"
+    ]
+  }
+}

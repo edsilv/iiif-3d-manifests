@@ -1,3 +1,5 @@
 # iiif-3d-manifests
 
-https://iiif-3d-manifests.netlify.com
+<!-- 
+https://iiif-3d-manifests.netlify.com/collection
+-->

@@ -16,6 +16,15 @@
           "type": "Image"
         }
       ]
+    },
+    {
+      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/bowl/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Somali Woven Basket"
+        ]
+      }
     }
   ],
   "label": {

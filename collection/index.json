@@ -12,6 +12,15 @@
       }
     },
     {
+      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/index.json",
+      "type": "Collection",
+      "label": {
+        "@none": [
+          "json"
+        ]
+      }
+    },
+    {
       "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/index.json",
       "type": "Collection",
       "label": {

@@ -1,9 +1,9 @@
 {
-  "id": "https://iiif-3d-manifests.netlify.com/collection/obj/index.json",
+  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://iiif-3d-manifests.netlify.com/collection/obj/woody/index.json",
+      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/woody/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,7 +12,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://iiif-3d-manifests.netlify.com/collection/obj/woody/thumb.jpg",
+          "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/woody/thumb.jpg",
           "type": "Image"
         }
       ]

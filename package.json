@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
-    "biiif-cli": "0.0.14"
+    "biiif": "0.1.13",
+    "biiif-cli": "0.0.15"
   },
   "scripts": {
     "build": "./node_modules/.bin/biiif collection -u https://edsilv.github.io/iiif-3d-manifests/collection"
@@ -16,7 +18,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/edsilv/iiif-3d-manifests/issues"
   },

@@ -9,7 +9,13 @@
         "@none": [
           "Bust of Queen Nefertiti"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {

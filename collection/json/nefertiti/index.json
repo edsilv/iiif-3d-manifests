@@ -15,30 +15,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/_nefertiti/nefertiti.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
+                "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/_nefertiti/assets/nefertiti.yml",
+                "type": "",
+                "format": "",
                 "label": {
                   "@none": [
                     "_nefertiti"
                   ]
-                }
-              },
-              "target": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/index.json/canvas/0"
-            },
-            {
-              "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/index.json/canvas/0/annotation/1",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/_nefertiti/nefertiti.json",
-                "type": "PhysicalObject",
-                "format": "application/vnd.threejs+json",
-                "label": {
-                  "@none": [
-                    "_nefertiti"
-                  ]
-                }
+                },
+                "value": "assets/nefertiti.yml"
               },
               "target": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/index.json/canvas/0"
             }
@@ -49,13 +34,7 @@
         "@none": [
           "_nefertiti"
         ]
-      },
-      "thumbnail": [
-        {
-          "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/_nefertiti/thumb.jpg",
-          "type": "Image"
-        }
-      ]
+      }
     }
   ],
   "label": {
@@ -159,6 +138,12 @@
           "<a href='https://ipfs.io/ipfs/QmY22Pv2h1PpjoAVXUvrBQun4cWyeG1VBuU5WHKgduDGXF'>https://ipfs.io/ipfs/QmY22Pv2h1PpjoAVXUvrBQun4cWyeG1VBuU5WHKgduDGXF</a>"
         ]
       }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/thumb.jpg",
+      "type": "Image"
     }
   ]
 }

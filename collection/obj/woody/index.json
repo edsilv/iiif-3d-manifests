@@ -22,8 +22,7 @@
                   "@none": [
                     "_woody"
                   ]
-                },
-                "value": "assets/woody.obj"
+                }
               },
               "target": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/woody/index.json/canvas/0"
             }

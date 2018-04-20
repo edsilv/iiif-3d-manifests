@@ -22,8 +22,7 @@
                   "@none": [
                     "_bowl"
                   ]
-                },
-                "value": "assets/bowl.gltf"
+                }
               },
               "target": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/bowl/index.json/canvas/0"
             }

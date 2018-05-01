@@ -3,6 +3,15 @@
   "type": "Collection",
   "items": [
     {
+      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/bedes/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "bedes"
+        ]
+      }
+    },
+    {
       "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/woody/index.json",
       "type": "Manifest",
       "label": {

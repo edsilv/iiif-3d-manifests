@@ -16,6 +16,21 @@
           "type": "Image"
         }
       ]
+    },
+    {
+      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/harbour/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "The Harbour"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/harbour/thumb.jpg",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {

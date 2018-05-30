@@ -31,6 +31,15 @@
           "type": "Image"
         }
       ]
+    },
+    {
+      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/vertebra/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Vertebra"
+        ]
+      }
     }
   ],
   "label": {

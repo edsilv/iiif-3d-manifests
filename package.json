@@ -10,7 +10,7 @@
     "biiif-cli": "0.0.16"
   },
   "scripts": {
-    "build": "biiif collection -u https://edsilv.github.io/iiif-3d-manifests/collection"
+    "build": "biiif collection -u https://iiif-3d-manifests.netlify.com/collection"
   },
   "repository": {
     "type": "git",

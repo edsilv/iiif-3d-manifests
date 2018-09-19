@@ -1,21 +1,21 @@
 {
-  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/bowl/index.json",
+  "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/bowl/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/bowl/index.json/canvas/0",
+      "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/bowl/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/bowl/index.json/canvas/0/annotationpage/0",
+          "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/bowl/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/bowl/index.json/canvas/0/annotation/0",
+              "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/bowl/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/bowl/_bowl/assets/bowl.gltf",
+                "id": "https://iiif-3d-manifests.netlify.com/collection/gltf/bowl/_bowl/assets/bowl.gltf",
                 "type": "PhysicalObject",
                 "format": "model/gltf+json",
                 "label": {
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://edsilv.github.io/iiif-3d-manifests/collection/gltf/bowl/index.json/canvas/0"
+              "target": "https://iiif-3d-manifests.netlify.com/collection/gltf/bowl/index.json/canvas/0"
             }
           ]
         }

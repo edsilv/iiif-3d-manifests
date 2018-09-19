@@ -1,9 +1,9 @@
 {
-  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/index.json",
+  "id": "https://iiif-3d-manifests.netlify.com/collection/obj/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/woody/index.json",
+      "id": "https://iiif-3d-manifests.netlify.com/collection/obj/woody/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,13 +12,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/woody/thumb.jpg",
+          "id": "https://iiif-3d-manifests.netlify.com/collection/obj/woody/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/harbour/index.json",
+      "id": "https://iiif-3d-manifests.netlify.com/collection/obj/harbour/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -27,13 +27,13 @@
       },
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/harbour/thumb.jpg",
+          "id": "https://iiif-3d-manifests.netlify.com/collection/obj/harbour/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/obj/vertebra/index.json",
+      "id": "https://iiif-3d-manifests.netlify.com/collection/obj/vertebra/index.json",
       "type": "Manifest",
       "label": {
         "@none": [

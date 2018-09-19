@@ -1,9 +1,9 @@
 {
-  "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/index.json",
+  "id": "https://iiif-3d-manifests.netlify.com/collection/json/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/index.json",
+      "id": "https://iiif-3d-manifests.netlify.com/collection/json/nefertiti/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,7 +12,7 @@
       },
       "thumbnail": [
         {
-          "id": "https://edsilv.github.io/iiif-3d-manifests/collection/json/nefertiti/thumb.jpg",
+          "id": "https://iiif-3d-manifests.netlify.com/collection/json/nefertiti/thumb.jpg",
           "type": "Image"
         }
       ]

@@ -16,6 +16,15 @@
           "type": "Image"
         }
       ]
+    },
+    {
+      "id": "https://iiif-3d-manifests.netlify.com/collection/json/harbour/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "harbour"
+        ]
+      }
     }
   ],
   "label": {

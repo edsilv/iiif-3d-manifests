@@ -3,21 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "biiif": "0.1.14",
-    "biiif-cli": "0.0.16"
+    "biiif-cli": "0.1.18"
   },
   "scripts": {
-    "build": "biiif collection -u https://iiif-3d-manifests.netlify.com/collection"
+    "build": "npx biiif collection -u https://iiif-3d-manifests.netlify.com/collection"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/edsilv/iiif-3d-manifests.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "@edsilv",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/edsilv/iiif-3d-manifests/issues"
